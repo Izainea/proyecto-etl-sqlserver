@@ -15,7 +15,7 @@ El objetivo es proporcionar una plantilla lista para usar que resuelva la config
     Abre una terminal en la raíz del proyecto y ejecuta:
 
     ```bash
-    docker-compose up --build
+    docker compose up --build
     ```
 
 2.  **¿Qué sucederá?**
@@ -29,7 +29,7 @@ El objetivo es proporcionar una plantilla lista para usar que resuelva la config
     Para detener los contenedores presiona `Ctrl + C`. Para eliminar los contenedores y redes:
 
     ```bash
-    docker-compose down
+    docker compose down
     ```
 
 ---
